@@ -24,7 +24,7 @@
   "compatibility": [
     {
       "version": "1.18.x",
-      "image": "kasmweb/chromium:develop",
+      "image": "kasmweb/chromium:x86_64-1.18.0-rolling-daily",
       "uncompressed_size_mb": 2170,
       "available_tags": [
         "develop"
