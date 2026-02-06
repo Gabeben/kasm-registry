@@ -5,7 +5,7 @@ const nextConfig = {
   distDir: '../public',
   env: {
     name: 'Bendee Workspaces',
-    description: 'bendee workspaces.',
+    description: 'Bendee workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://Gabeben.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Gabeben/',
