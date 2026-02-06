@@ -23,8 +23,8 @@
   ],
   "compatibility": [
     {
-      "version": "1.18.x",
-      "image": "kasmweb/chromium:x86_64-1.18.0-rolling-daily",
+      "version": "1.17.x",
+      "image": "kasmweb/chromium:develop",
       "uncompressed_size_mb": 2170,
       "available_tags": [
         "develop"
